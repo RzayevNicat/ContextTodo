@@ -1,0 +1,15 @@
+.app {
+  display: flex;
+  min-height: 50vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.data {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-left: 20%;
+  padding-right: 20%;
+}
